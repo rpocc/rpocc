@@ -15,9 +15,7 @@
 - 
 - 📫
 - Telegram:  @shtatnovda
-- Instagram: @shtatnovda
--            @sssrlabs
+- Instagram: @shtatnovda, @sssrlabs
 - Facebook:  Dmitry Shtatnov (rpocc)
 - Youtube:   rpocc
-- email:     sssrlabs@sssrlabs.com
--            shtatnovda@yandex.ru
+- email:     sssrlabs@sssrlabs.com, shtatnovda@yandex.ru
