@@ -1,0 +1,23 @@
+- 👋
+- I’m Dmitry Shtatnov: Musician, programmer, trader.
+- 
+- 👀
+- I've founded a eurorack modules manufacturing company SSSR Labs in 2014, which is going to be rebranded as Shtatnov after 2022.
+- I write code for synthesizers and designed a number of eurorack modules since 2014.
+- Formerly a web-developer of what is currently called a "full-stack" (asp.net, c#, php, HTML, CSS, JS, some design)
+- Play synths, other instruments, sing, write music all my life
+- 
+- 🌱
+- Mainly write on C, C++, AVR assembler. Also familiar with JUCE, VCV Rack toolchain, MingW, less with STM32
+- 
+- 💞️
+- Happy to design plugins, effects, DSP, music electronic for money
+- 
+- 📫
+- Telegram:  @shtatnovda
+- Instagram: @shtatnovda
+-            @sssrlabs
+- Facebook:  Dmitry Shtatnov (rpocc)
+- Youtube:   rpocc
+- email:     sssrlabs@sssrlabs.com
+-            shtatnovda@yandex.ru
